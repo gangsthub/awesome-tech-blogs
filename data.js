@@ -848,21 +848,19 @@ module.exports = [
     ]
   },
   {
-    name: 'Steven Spads',
+    name: 'Paul Melero',
     description: 'Full-stack Web Developer from Canada. Sharing web development tips, techniques, and tutorials to help you become a better web developer.',
-    url: 'https://lumin8media.com',
-    twitter: '@stevenspads',
+    url: 'https://graficos.net/blog',
+    twitter: '@paul_melero',
     tags: [
       'HTML',
       'CSS',
       'JavaScript',
-      'TypeScript',       
-      'Angular',
-      'React',
-      'Node.js',      
-      'NestJS',      
-      'Laravel',
+      'Vue',
+      'Nuxt',      
+      'Front End',
       'Web Development',
+      'Beginner',
     ]
   },
 ];
